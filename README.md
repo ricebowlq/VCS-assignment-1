@@ -25,3 +25,8 @@ git add .
 git commit -m "add README to raisa directory"
 git push -u origin raisa
 ```
+6. Add content to README.md inside raisa directory and commit this change
+7. Add content to main README.md inside raisa branch and commit this change
+8. Create a pull request to forked main branch for all commits made to raisa branch (main <- raisa)
+9. Merge and rebase
+10. Create a pull request to the original repository (the one I forked)
